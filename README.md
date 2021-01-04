@@ -3,7 +3,7 @@ SPAM GMAIL
 
 CARA INSTALL UNTUK PENGGUNA TERMUX
 
-`` php
+``php
 $ pkg update && pkg upgrade
 
 $ pkg install git -y
