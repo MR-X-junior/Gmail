@@ -3,7 +3,7 @@ SPAM GMAIL
 
 CARA INSTALL UNTUK PENGGUNA TERMUX
 
-``php
+
 $ pkg update && pkg upgrade
 
 $ pkg install git -y
@@ -20,4 +20,4 @@ $ python Google.py
 
  APABILA LOGIN SUDAH BERHASIL SILAHKAN KETIK :
 
-$ python Gmail.py``
+$ python Gmail.py
