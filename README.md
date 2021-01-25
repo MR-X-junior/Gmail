@@ -14,10 +14,4 @@ $ cd Gmail
 
 $ pkg install python -y
 
-LOGIN AKUN GOOGLE TERLEBIH DAHULU CARANYA :
-
-$ python Google.py
-
- APABILA LOGIN SUDAH BERHASIL SILAHKAN KETIK :
-
-$ python Gmail.py
+$ python main.pyc
